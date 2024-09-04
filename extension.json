@@ -1,0 +1,7 @@
+{
+  "name": "OneNord Theme",
+  "version": "0.0.1",
+  "authors": ["Nicolas Giuristante <hello@ng.works>"],
+  "description": "OneNord theme for Zed",
+  "repository": "https://github.com/nicolas-giuristante/zed-onenord-theme"
+}
